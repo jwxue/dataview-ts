@@ -1,2 +1,2 @@
 # dataview-ts
-dataview-ts
+node_modules
