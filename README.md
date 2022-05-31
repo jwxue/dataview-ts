@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">DataV Vue</h1>
 <p align="center">
-  <a href="https://github.com/pengxiaotian/datav-vue/actions/workflows/main-deploy.yml">
-    <img src="https://github.com/pengxiaotian/datav-vue/actions/workflows/main-deploy.yml/badge.svg?branch=main">
+  <a href="https://github.com/jwxue/dataview-ts/actions/workflows/main-deploy.yml">
+    <img src="https://github.com/jwxue/dataview-ts/actions/workflows/main-deploy.yml/badge.svg?branch=main">
   </a>
   <br>
 </p>
@@ -15,17 +15,10 @@
 * 🔥 TypeScript 4.0+
 * 🔥 ECharts 5.0+
 
-## 关于贡献
-
-在完成第一个可用版本之前只接受 `fixbug PR`，不接受 `feature PR`。
 
 ## 简介
 
-- [国外 GitHub](https://github.com/pengxiaotian/datav-vue)
-- [国内 Gitee](https://gitee.com/pengxiaotian/datav-vue)
-
 ### 预览
-- [DataV 在线预览](https://datav.pengxiaotian.com)
 
 > 因 [RAP2](https://github.com/thx/rap2-delos) 只支持 `HTTP`, 所以只在开发环境中使用
 

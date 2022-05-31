@@ -1,5 +1,5 @@
 {
-  "name": "datav-vue",
+  "name": "dataview-ts",
   "version": "0.0.1",
   "description": "A Powerful Data Visualization Tool",
   "scripts": {
@@ -91,11 +91,9 @@
     "src/**/*.{js,ts,vue}": "eslint --fix"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:pengxiaotian/datav-vue.git"
+    "type": "git"
   },
-  "homepage": "https://datav.pengxiaotian.com",
-  "author": "Xiaotian (Allen) Peng",
+  "author": "",
   "license": "MIT",
   "browserslist": [
     "> 2%",
